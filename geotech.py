@@ -495,7 +495,6 @@ def extract_tables_from_pdf(pdf_bytes: bytes, pages_text: Dict[int, str] = None)
 # METADATA EXTRACTION
 # =============================================================================
 
-@st.cache_data(show_spinner=False)
 def extract_metadata(pdf_bytes: bytes, pages_text: Dict[int, str]) -> ReportMetadata:
     """Extract report metadata including file number from footers."""
     metadata = ReportMetadata()
